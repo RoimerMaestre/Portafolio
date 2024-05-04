@@ -11855,4 +11855,9 @@ textarea.form-control-lg {
   margin: 1.4rem;
 }
 
+.img-coffe {
+  width: 17rem;
+  object-fit: cover;
+}
+
 /*# sourceMappingURL=style.css.map */
